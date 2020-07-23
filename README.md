@@ -15,20 +15,20 @@ If I am not working or coding for fun, I am probably
 
 #### My current bikes (we never have enough bikes)
 
-Specialized Diverge Comp, mostly for commuting now.
-Specialized Roubaix Expert Di2, for long/group rides.
-Specialized Stump Jumper, for mountain biking.
-Canyon Speedmax Cf 8.0 Di2, for triathlons.
+- Specialized Diverge Comp, mostly for commuting now.
+- Specialized Roubaix Expert Di2, for long/group rides.
+- Specialized Stump Jumper, for mountain biking.
+- Canyon Speedmax Cf 8.0 Di2, for triathlons.
 
 #### My current guitars (we never have enough guitars)
 
-Taylor 214ce
-Yamaha SLG200S Silent Guitar
+- Taylor 214ce
+- Yamaha SLG200S Silent Guitar
 
 #### My current running gear (one pair is enough)
 
-Nike Pegasus Turbo 2
-Balega Hidden Comfort Running Socks
+- Nike Pegasus Turbo 2
+- Balega Hidden Comfort Running Socks
 
 ### Open source
 
