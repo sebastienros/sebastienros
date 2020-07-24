@@ -2,7 +2,7 @@
 
 I am a software developer in the ASP.NET team at Microsoft. I currently work on [benchmarking ASP.NET Core](https://github.com/aspnet/benchmarks) and [building distributed benchmarking services](https://github.com/dotnet/crank). I also spend some of this time helping the [Orchard Core project](https://github.com/OrchardCMS/OrchardCore) by leading the community and contributing to features.
 
-If I am not working or coding for fun, I am probably 
+If I am not working or coding, I am probably 
 - sleeping
 - doing husband and father duties
 - listening to James Taylor
@@ -27,7 +27,29 @@ A NoSQL-like document database layer for .NET that works on existing RDBMS like 
 
 The idea of the project came to me while working on the first version of Orchard CMS, where we would have to split entities in many tables, which was impacting perf a lot. A CMS usually fits a document based approach, with denormalized data. However using brand new NoSQL databases is often an issue in terms of vendor lock-in, or lack of experience on these systems. RavenDB paved the way in .NET, and I thought we could definitely provide similar features using an RDBMS. Now YesSQL is the standard way to store content in Orchard Core.
 
-### Outside of coding
+#### Fluid - [https://github.com/sebastienros/fluid](https://github.com/sebastienros/fluid) 
+
+A Liquid template engine. Liquid is a templating language created by Shopify and used in other places like Jekyll. This can be used to provide a safe way for users to author templates. It also contains an MVC view engines where files like `index.liquid` will be used automacically for MVC Views.
+
+This project was created for [Orchard Core](https://github.com/OrchardCMS/OrchardCore) in order to enable users to create safe templates, and faster cold rendering of templates. The issue with Razor for content editors is that it's not safe, as it allows to access anything that C# allows, including reading the whole filesystem, and it is also slower to render a template the first time as it requires compilation. Fluid solves these two issues and now used in other .NET CMSes. Initially I tried to use [dotLiquid](http://dotliquidmarkup.org/) but was faced with performance issues as it is using regular expressions to parse the templates.
+
+#### Esprima.NET - [https://github.com/sebastienros/esprima-dotnet](https://github.com/sebastienros/esprima-dotnet) 
+
+Is it a fully compliant ECMAScript parser for .NET. It allows to parse and manipulate JavaScript files, either for executing them, minifying, linting, finding bugs, ... It's use in [Jint](https://github.com/sebastienros/jint).
+
+When I started rewriting [Jint](https://github.com/sebastienros/jint) I followed an advice that [Atif Aziz](https://github.com/atifaziz) made on the previous version, and made the parser a separate library to Jint. The project is mainly a port of the JavaScript implementation named [Esprima](https://esprima.org) created by [Ariya Hidayat](https://github.com/ariya).
+
+#### Shortcodes - [https://github.com/sebastienros/shortcodes](https://github.com/sebastienros/shortcodes) 
+
+A .NET library to parse and evaluate [shortcodes](https://wordpress.com/support/shortcodes/). It allows text content editors to inject specialized content blocks using custom arguments, like images, twitter embeds, youtube videos, only with simple blocks like `[video 123]`.
+
+Shortcodes are essential to WordPress, and for the [Orchard Core](https://github.com/OrchardCMS/OrchardCore) we wanted a similar feature. The parser was written by hand as the syntax is simple and it needs to be efficient.
+
+### More about myself
+
+#### Personal life
+
+I was born in Bordeaux (France). Started programming at the age of 11, copying Basic programs, then doing 3D and games in C++, assembler and Turbo Pascal. Started Delphi to build stock trading applications for a small company around 16 of age. I enrolled at an Engineering school at 20 to study Computer Science and Automation in Mulhouse (France). I met my wife, created a company, had a son, then left to join Microsoft in 2010. Since then I live in Bellevue WA (US), had a daughter, bought a road bike, then more. 
 
 #### My current bikes (we never have enough bikes)
 
