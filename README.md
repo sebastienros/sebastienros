@@ -19,7 +19,7 @@ When I don't get paid to code, I still code, mainly on these open source project
 
 A JavaScript interpreter for .NET, which allows to run standard scripts in any .NET application. If you need to add some scripting capabilities to your apps, to build a rules engine, or evaluate configurable predicates, you should use it. It's fast and standard compliant. 
 
-The first version of this project started at a previous job, where we needed to send email compains, and we wanted to customize these emails using templates. We followed the way Razor was working by translating the template into pure code, but decided that JavaScript would be easier than C# for editors. A few years ago I decided to rewrite it from scratch following the ECMAScript specs. The first week I joined Microsoft I was asked to show a prototype to Scott Guthrie of "jQuery on the server" which I had built with it, that was fun!
+The first version of this project started at a previous job, where we needed to send email compaigns, and we wanted to customize these emails using templates. We followed the way Razor was working by translating the template into pure code, but decided that JavaScript would be easier than C# for editors. A few years ago I decided to rewrite it from scratch following the ECMAScript specs. The first week I joined Microsoft I was asked to show a prototype to Scott Guthrie of "jQuery on the server" which I had built with it, that was fun!
 
 #### YesSQL - [https://github.com/sebastienros/yessql](https://github.com/sebastienros/yessql) 
 
