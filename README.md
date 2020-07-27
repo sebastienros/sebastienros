@@ -49,7 +49,7 @@ Shortcodes are essential to WordPress, and for the [Orchard Core](https://github
 
 #### Personal life
 
-I was born in Bordeaux (France). Started programming at the age of 11, copying Basic programs, then doing 3D and games in C++, assembler and Turbo Pascal. Started Delphi to build stock trading applications for a small company around 16 of age. I enrolled at an Engineering school at 20 to study Computer Science and Automation in Mulhouse (France). I met my wife, created a company, had a son, then left to join Microsoft in 2010. Since then I live in Bellevue WA (US), had a daughter, bought a road bike, then more. 
+I am French, married and father of two. I joined Microsoft in 2010 and live in Bellevue WA (US). 
 
 #### My current bikes (we never have enough bikes)
 
