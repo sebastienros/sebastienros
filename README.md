@@ -67,5 +67,5 @@ I am French, married and father of two. I joined Microsoft in 2010 and live in B
 
 #### My current running gear (one pair is enough)
 
-- Nike Pegasus Turbo 2
+- Nike Air Zoom Tempo Next%
 - Balega Hidden Comfort Running Socks
