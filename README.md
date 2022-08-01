@@ -53,7 +53,7 @@ I am French, married and father of two. I joined Microsoft in 2010 and live in B
 
 #### My current bikes (we never have enough bikes)
 
-- Specialized Diverge Comp, mostly for commuting now.
+- Specialized Diverge Comp, for commuting.
 - Specialized Roubaix Expert Di2, for long/group rides.
 - Specialized Stump Jumper, for mountain biking.
 - Canyon Speedmax Cf 8.0 Di2, for triathlons.
@@ -65,7 +65,8 @@ I am French, married and father of two. I joined Microsoft in 2010 and live in B
 - Taylor 214ce
 - Yamaha SLG200S Silent Guitar
 
-#### My current running gear (one pair is enough)
+#### My current running gear
 
-- Nike Air Zoom Tempo Next%
+- Hoka Carbon X 3
+- Saucony Triumph 19
 - Balega Hidden Comfort Running Socks
