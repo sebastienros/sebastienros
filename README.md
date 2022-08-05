@@ -39,6 +39,10 @@ Is it a fully compliant ECMAScript parser for .NET. It allows to parse and manip
 
 When I started rewriting [Jint](https://github.com/sebastienros/jint) I followed an advice that [Atif Aziz](https://github.com/atifaziz) made on the previous version, and made the parser a separate library to Jint. The project is mainly a port of the JavaScript implementation named [Esprima](https://esprima.org) created by [Ariya Hidayat](https://github.com/ariya).
 
+#### Parlot - [https://github.com/sebastienros/parlot](https://github.com/sebastienros/parlot) 
+
+A fast, lightweight and simple to use .NET parser combinator. Parser combinators make it possible to create parsers at runtime, while keeping simplicity by reusing common language constructs. I created Parlot out of interest for this technology and realized it would become even faster than hand-written parsers while still providing ways to customize the languages at runtime.
+
 #### Shortcodes - [https://github.com/sebastienros/shortcodes](https://github.com/sebastienros/shortcodes) 
 
 A .NET library to parse and evaluate [shortcodes](https://wordpress.com/support/shortcodes/). It allows text content editors to inject specialized content blocks using custom arguments, like images, twitter embeds, youtube videos, only with simple blocks like `[video 123]`.
