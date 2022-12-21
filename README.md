@@ -62,7 +62,7 @@ I am French, married and father of two. I joined Microsoft in 2010 and live in B
 - Specialized Stump Jumper, for mountain biking.
 - Canyon Speedmax Cf 8.0 Di2, for triathlons.
 
-[My stava profile](https://www.strava.com/athletes/8834137)
+[My Strava profile](https://www.strava.com/athletes/8834137)
 
 #### My current guitars (we never have enough guitars)
 
@@ -71,6 +71,7 @@ I am French, married and father of two. I joined Microsoft in 2010 and live in B
 
 #### My current running gear
 
+- Nike Vaporfly NEXT 2%
 - Hoka Carbon X 3
 - Saucony Triumph 19
 - Balega Hidden Comfort Running Socks
