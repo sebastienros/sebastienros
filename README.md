@@ -51,18 +51,22 @@ Shortcodes are essential to WordPress, and for the [Orchard Core](https://github
 
 ### More about myself
 
+#### Social
+
+[Strava](https://www.strava.com/athletes/8834137)
+[Twitter](https://www.twitter.com/sebastienros)
+
 #### Personal life
 
 I am French, married and father of two. I joined Microsoft in 2010 and live in Bellevue WA (US). 
 
 #### My current bikes (we never have enough bikes)
 
-- Specialized Diverge Comp, for commuting.
-- Specialized Roubaix Expert Di2, for long/group rides.
-- Specialized Stump Jumper, for mountain biking.
-- Canyon Speedmax Cf 8.0 Di2, for triathlons.
-
-[My Strava profile](https://www.strava.com/athletes/8834137)
+- Specialized Diverge Comp, for commuting
+- Specialized Roubaix Expert Di2, for long/group rides
+- Specialized Stump Jumper, for mountain biking
+- Canyon Speedmax CF 8.0 Di2
+- Canyon Aeroad CFR
 
 #### My current guitars (we never have enough guitars)
 
@@ -71,7 +75,5 @@ I am French, married and father of two. I joined Microsoft in 2010 and live in B
 
 #### My current running gear
 
-- Nike Vaporfly NEXT 2%
-- Hoka Carbon X 3
-- Saucony Triumph 19
-- Balega Hidden Comfort Running Socks
+- Hoka Rocket X2
+- Nike Zoom Fly 5
