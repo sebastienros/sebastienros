@@ -63,10 +63,9 @@ I am French, married and father of two. I joined Microsoft in 2010 and live in B
 #### My current bikes (we never have enough bikes)
 
 - Specialized Diverge Comp, for commuting
-- Specialized Roubaix Expert Di2, for long/group rides
 - Specialized Stump Jumper, for mountain biking
-- Canyon Speedmax CF 8.0 Di2
-- Canyon Aeroad CFR
+- Canyon Speedmax
+- Canyon Aeroad
 
 #### My current guitars (we never have enough guitars)
 
