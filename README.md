@@ -51,28 +51,6 @@ Shortcodes are essential to WordPress, and for the [Orchard Core](https://github
 
 ### More about myself
 
-#### Social
-
-[Strava](https://www.strava.com/athletes/8834137)
-[Twitter](https://www.twitter.com/sebastienros)
-
 #### Personal life
 
 I am French, married and father of two. I joined Microsoft in 2010 and live in Bellevue WA (US). 
-
-#### My current bikes (we never have enough bikes)
-
-- Specialized Diverge Comp, for commuting
-- Specialized Stump Jumper, for mountain biking
-- Canyon Speedmax
-- Canyon Aeroad
-
-#### My current guitars (we never have enough guitars)
-
-- Taylor 214ce
-- Yamaha SLG200S Silent Guitar
-
-#### My current running gear
-
-- Hoka Rocket X2
-- Nike Zoom Fly 5
