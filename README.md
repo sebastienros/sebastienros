@@ -3,13 +3,12 @@
 I am a software developer in the [Aspire](https://aspire.dev) team at Microsoft. I also spend some of this time helping the [Orchard Core project](https://github.com/OrchardCMS/OrchardCore) by leading the community and contributing to features.
 
 If I am not working or coding, I am probably 
-- sleeping
-- doing husband and father duties
 - listening to James Taylor
 - playing guitar
 - biking
 - running
 - swimming
+- eating bread
 
 ### Open source
 
